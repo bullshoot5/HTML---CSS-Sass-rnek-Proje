@@ -12,4 +12,3 @@
 # Ekran görüntüsü
 
 # ![](bes.gif)
-# HTML-CSS-Sass-ornek-Proje
